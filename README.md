@@ -48,3 +48,7 @@ https://github.com/Cp0204/CasaOS-AppStore-Play
 使用方法是點擊App Store主頁中間位置右方的"352 apps"下選菜單(不一定是這個數目)>選新增應用商城來源>
 再貼上https://play.cuse.eu.org/Cp0204-AppStore-Play.zip這路徑再安Enter便可.完成安裝第三方應用庫後, 可安裝的應用數量會增多.
 
+假如要刪除CasaOS, 可執行:
+```
+casaos-uninstall
+```
